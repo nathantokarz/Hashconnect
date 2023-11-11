@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@hashgraph/hethers": "^1.1.0",
-    "@hashgraph/sdk": "2.14.2",
+    "@hashgraph/sdk": "^2.14.2",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@fontsource/roboto": "^4.5.7",
@@ -21,25 +21,25 @@
     "@mui/system": "^5.8.1",
     "@mui/utils": "^5.8.0",
     "@mui/x-date-pickers": "5.0.11",
-    "dayjs": "1.11.9",
-    "@material-ui/core": "4.12.0",
-    "mongodb": "4.8.1",
+    "dayjs": "^1.11.9",
+    "@material-ui/core": "^4.12.0",
+    "mongodb": "^4.8.1",
     "abi-decoder": "^2.4.0",
     "readline-sync": "^1.4.10",
     "axios": "^1.2.0",
     "solc": "^0.8.7",
-    "next-transpile-modules": "9.0.0",
+    "next-transpile-modules": "^9.0.0",
     "ts-node": "^10.9.1",
     "@types/canvas-confetti": "^1.4.2",
     "canvas-confetti": "^1.4.0",
     "hashconnect": "^0.2.3",
     "bignumber.js": "^9.1.1",
-    "dotenv": "15.0.1",
+    "dotenv": "^15.0.1",
     "next": "^12.1.6",
     "react": "^18.0.0",
-    "react-countup": "6.3.0",
-    "react-cookie": "4.1.1",
-    "react-dom": "18.0.0",
+    "react-countup": "^6.3.0",
+    "react-cookie": "^4.1.1",
+    "react-dom": "^18.0.0",
     "react-material-ui-carousel": "^3.4.2",
     "react-router": "^6.3.0",
     "react-router-dom": "^6.3.0"
@@ -55,12 +55,12 @@
     ]
   },
   "devDependencies": {
-    "@types/node": "17.0.35",
+    "@types/node": "^17.0.35",
     "@types/react": "^18.0.1",
     "@types/react-dom": "18.0.0",
     "eslint": "^8.12.0",
     "eslint-config-next": "^12.1.6",
     "typescript": "^4.7.2",
-    "web3": "1.8.0"
+    "web3": "^1.8.0"
   }
 }
