@@ -25,7 +25,6 @@ export const Homepage = () => {
                     height: '100%',
                 }}
                 >
-                    <Banner />
                 </Box>
             </ThemeProvider>
         </Box>
